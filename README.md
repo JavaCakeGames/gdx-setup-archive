@@ -16,7 +16,9 @@ Version 1.0.0 (20 Apr '14) to 1.10.0 (18 Apr '21).
 
 Here? If on mobile, click "View code" from this repository's homepage to view the files.
 
-It was sourced from `extensions/gdx-setup/` in the libGDX source code.
+You may also wish to browse via [this repository's website](https://javacakegames.github.io/gdx-setup-archive/).
+
+gdx-setup source code was sourced from `extensions/gdx-setup/` within the libGDX source code.
 
 ## Why?
 
