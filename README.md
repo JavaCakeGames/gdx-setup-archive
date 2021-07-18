@@ -26,7 +26,9 @@ While I'd advise against using them, they may be of some benefit to those workin
 
 ## How?
 
-I compiled them by running `ant` in the source directory with my `JAVA_HOME` set to OpenJDK 8. Sources are included here for ease of access, but the JARs are likely more of interest.
+I compiled them by running `ant` in the source directory with my `JAVA_HOME` set to OpenJDK 8.
+
+Sources are included here for ease of access, but the JARs are likely more of interest.
 
 ## 
 
