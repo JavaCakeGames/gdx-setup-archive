@@ -1,5 +1,7 @@
 # gdx-setup archive
 
+This website is for the [JavaCakeGames/gdx-setup-archive](https://github.com/JavaCakeGames/gdx-setup-archive) repository.
+
 - [1.0.0 (20 Apr '14)](https://javacakegames.github.io/gdx-setup-archive/1.0.0)
 - [1.0.1 (06 May '14)](https://javacakegames.github.io/gdx-setup-archive/1.0.1)
 - [1.1.0 (23 May '14)](https://javacakegames.github.io/gdx-setup-archive/1.1.0)
