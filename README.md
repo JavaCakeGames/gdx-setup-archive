@@ -8,6 +8,8 @@ gdx-setup is created by the libGDX people. See [libgdx/libgdx](https://github.co
 
 An archive of all the gdx-setup versions I can lay my hands on.
 
+gdx-setup was introduced with libGDX 1.0.0, which is why there are no downloads for versions prior to that here.
+
 ## When?
 
 Version 1.0.0 (20 Apr '14) to 1.10.0 (18 Apr '21).
