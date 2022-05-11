@@ -43,3 +43,4 @@ This website is for the [JavaCakeGames/gdx-setup-archive](https://github.com/Jav
 - [1.9.13 (01 Jan '21)](https://javacakegames.github.io/gdx-setup-archive/1.9.13)
 - [1.9.14 (01 Feb '21)](https://javacakegames.github.io/gdx-setup-archive/1.9.14)
 - [1.10.0 (18 Apr '21)](https://javacakegames.github.io/gdx-setup-archive/1.10.0)
+- [1.11.0 (11 May '22)](https://javacakegames.github.io/gdx-setup-archive/1.11.0)
