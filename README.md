@@ -12,7 +12,7 @@ gdx-setup was introduced with libGDX 1.0.0, which is why there are no downloads 
 
 ## When?
 
-Version 1.0.0 (20 Apr '14) to 1.11.0 (11 May '22).
+Version 1.0.0 (2014) to the last nightly (2024).
 
 ## Where?
 
