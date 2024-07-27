@@ -8,11 +8,9 @@ gdx-setup is created by the libGDX people. See [libgdx/libgdx](https://github.co
 
 An archive of all the gdx-setup versions I can lay my hands on.
 
-gdx-setup was introduced with libGDX 1.0.0, which is why there are no downloads for versions prior to that here. There was an older setup tool, which I'll look into including one day.
-
 ## When?
 
-Version 1.0.0 (2014) to the last nightly (2024).
+Version 0.9.3 (2012) to the last nightly (2024).
 
 ## Where?
 
@@ -24,7 +22,7 @@ gdx-setup source code was sourced from `extensions/gdx-setup/` within the [libGD
 
 ## Why?
 
-I was unable to find old versions up for download, so I compiled them myself.
+I was unable to find most old versions up for download, so I compiled the ones I didn't find myself and mirrored the rest here.
 
 While I'd advise against using them, they may be of some benefit to those working with older projects or out of morbid curiosity for what previous versions were like.
 
