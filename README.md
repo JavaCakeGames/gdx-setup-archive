@@ -22,8 +22,6 @@ You may also wish to browse via [this repository's website](https://javacakegame
 
 gdx-setup source code was sourced from `extensions/gdx-setup/` within the [libGDX source code](https://github.com/libgdx/libgdx).
 
-If you don't trust these binaries, some of the newer versions are also available [in the ligbgdx.github.io repo](https://github.com/libgdx/libgdx.github.io/tree/dev/assets/downloads/legacy_setup).
-
 ## Why?
 
 I was unable to find old versions up for download, so I compiled them myself.
@@ -32,7 +30,7 @@ While I'd advise against using them, they may be of some benefit to those workin
 
 ## How?
 
-I compiled them by running `ant` in the source directory with my `JAVA_HOME` set to OpenJDK 8. 1.11.0 and up were build with `/gradlew extensions:gdx-setup:build`.
+I compiled them by running `ant` in the source directory with my `JAVA_HOME` set to OpenJDK 8. 1.11.0 and up were build with `./gradlew extensions:gdx-setup:build`.
 
 Sources are included here for ease of access, but the JARs are likely more of interest.
 
